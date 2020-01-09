@@ -1,0 +1,22 @@
+{
+  "name": "ABC",
+  "version": "0.1.0",
+  "summary": "A short description of ABC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/MinaMaherCofo/ABC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "MinaMaherCofo": "Mina.maher@coformatique.com"
+  },
+  "source": {
+    "git": "https://github.com/MinaMaherCofo/ABC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ABC/Classes/**/*"
+}
