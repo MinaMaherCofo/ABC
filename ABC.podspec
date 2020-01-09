@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'ABC'
+  s.name             = 'ABC2'
   s.version          = '0.1.0'
   s.summary          = 'ABC is localized strings pod.'
   s.swift_version    = '5'
